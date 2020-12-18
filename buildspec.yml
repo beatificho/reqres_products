@@ -1,6 +1,6 @@
 version: 0.2
 
-env:
+env: 
   variables:
     IMAGE_REPO_NAME: "skuser20-products"
 
